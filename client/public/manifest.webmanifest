@@ -1,0 +1,9 @@
+{
+  "name": "GeoRAG",
+  "short_name": "GeoRAG",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7faf7",
+  "theme_color": "#176b87",
+  "icons": []
+}

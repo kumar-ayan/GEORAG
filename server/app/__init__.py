@@ -1,0 +1,1 @@
+"""GeoRAG FastAPI backend package."""
