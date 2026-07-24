@@ -244,6 +244,8 @@ python-dotenv = "^1.0.0"
 
 ## Setup & Installation
 
+> 📘 **Detailed Guide**: For a step-by-step guide including OS-specific instructions (Windows/macOS/Linux), migration options, API testing, and troubleshooting, see [HOW_TO_RUN.md](file:///d:/New%20folder%20%284%29/App/HOW_TO_RUN.md).
+
 ### Prerequisites
 - Docker & Docker Compose
 - Node.js >= 18
